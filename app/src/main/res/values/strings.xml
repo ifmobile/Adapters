@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Adapters</string>
+
+    <array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Terra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Netuno</item>
+    </array>
+
+</resources>
